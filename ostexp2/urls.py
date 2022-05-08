@@ -20,3 +20,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('games/', include('games.urls'))
 ]
+
+#TEST CHANGE
