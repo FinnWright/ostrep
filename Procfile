@@ -1,1 +1,1 @@
-web: gunicorn ostexp2.wsgi
+web: gunicorn --chdir ostexp2 ostexp2.wsgi
