@@ -1,1 +1,1 @@
-web: gunicorn OSTEXP2.wsgi
+web: gunicorn ostexp2.wsgi
