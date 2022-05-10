@@ -1,1 +1,1 @@
-web: gunicorn ostexp2.wsgi --log-file-
+web: gunicorn ostexp2.wsgi
